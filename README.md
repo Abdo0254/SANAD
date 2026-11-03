@@ -49,7 +49,7 @@ Sitemap & Information Architecture
 
 User Flow & Task Flow
 
-4. - Mohamed Mahmoud Mohamed Gad
+4. -  Yara Hassan Maher Hassan
 
 Sketching & Wireframing
 
@@ -67,7 +67,7 @@ UI Screens
 
 Visual Style
 
-6. -  Yara Hassan Maher Hassan
+6. -   Mohamed Mahmoud Mohamed Gad
 
 Design System & Prototyping
 
