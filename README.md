@@ -29,7 +29,8 @@ Competitor Analysis
 
 Affinity Map & Insights
 
-2. - Fatma Mohamed Alsaeed Alalfy
+2. - Mohamed Mahmoud Mohamed Gad
+ 
 
 Personas & UX Strategy
 
@@ -67,8 +68,7 @@ UI Screens
 
 Visual Style
 
-6. -   Mohamed Mahmoud Mohamed Gad
-
+6. -  Fatma Mohamed Alsaeed Alalfy
 Design System & Prototyping
 
 Components & Design System
