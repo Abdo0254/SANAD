@@ -1,5 +1,6 @@
-# MISRA-
-منصة سفر ذكية تساعد السياح والمسافرين داخل مصر على اكتشافها وتخطيط رحلات مخصصة تناسب وقتهم وميزانيتهم واهتماماتهم.
+# سند-
+لمشروع عبارة عن منصة رقمية تهدف إلى مساعدة الطلاب الذين يواجهون تحديات مادية أو ظروفًا اجتماعية قد تؤثر على قدرتهم على استكمال تعليمهم، وذلك من خلال ربطهم بفرص الدعم المناسبة لاحتياجاتهم، مثل المنح الدراسية، والمساعدات المالية، والكتب والأدوات الدراسية، والدروس المجانية.
+توفر المنصة تجربة متكاملة تبدأ بتحديد احتياجات الطالب، ثم ترشيح فرص الدعم المناسبة، وتقديم الطلبات ومتابعتها، وصولًا إلى الحصول على المساعدة.
 Abdulfattah  Mohamed  Ebrahim  Eladl 
 Fatma Mohamed Alsaeed  Alalfy 
 Sara Mohmed Hassan Mohmed
@@ -8,45 +9,9 @@ Nouran Yasser Elsayed Hallawa
 Yara Hassan Maher Hassan
 Yara Hassan Maher Hassan
 
-المحاضر 
-بشمهندس محمد قمر
+Instructor: Eng. Mohamed Kamar
 
-1- UX Research
-Survey
-Interviews
-Competitor Analysis
-Affinity Map
-Insights
 
-2- Personas & UX Strategy
-Personas
-Empathy Map
-Pain Points
-Problem Statement
-User Stories
-
-3- IA & User Flows
-Sitemap
-Information Architecture
-User Flow
-Task Flow
-
-4- Sketching & Wireframing
-Sketches
-Low-Fidelity Wireframes
-
-5- UI Design & Branding
-Colors
-Typography
-UI Screens
-Visual Style
-
-6- Design System & Prototyping
-Components
-Design System
-Figma Prototype
-Peer Testing
-Final Improvements
 
 
 
