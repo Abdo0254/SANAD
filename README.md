@@ -4,13 +4,14 @@
 توفر المنصة تجربة متكاملة تبدأ بتحديد احتياجات الطالب، ثم ترشيح فرص الدعم المناسبة، وتقديم الطلبات ومتابعتها، وصولًا إلى الحصول على المساعدة.
 
 👥 Team Members
-Abdulfattah  Mohamed  Ebrahim  Eladl 
-Fatma Mohamed Alsaeed  Alalfy 
-Sara Mohmed Hassan Mohmed
-mohamed mahmoud mohamed gad
-Nouran Yasser Elsayed Hallawa
-Yara Hassan Maher Hassan
-Yara Hassan Maher Hassan
+Abdulfattah_Mohamed_Ebrahim_Eladl  
+Fatma_Mohamed_Alsaeed_Alalfy  
+Sara_Mohmed_Hassan_Mohmed 
+mohamed_mahmoud_mohamed_gad 
+Nouran_Yasser_Elsayed_Hallawa 
+Yara_Hassan_Maher_Hassan 
+Yara_Hassan_Maher_Hassan 
+
 
 Instructor: Eng. Mohamed Kamar
 
